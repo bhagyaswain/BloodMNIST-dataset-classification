@@ -1,0 +1,40 @@
+Total requests from Germany (.de): 21345
+Total requests from Canada (.ca): 58290
+Total requests from Singapore (.sg): 1057
+
+Number of unique hosts in Germany (.de): 1138
+Number of unique hosts in Canada (.ca): 2970
+Number of unique hosts in Singapore (.sg): 78
+
+Top 9 most frequent hosts in Germany (.de):
+host62.ascend.interop.eunet.de
+aibn32.astro.uni-bonn.de
+ns.scn.de
+www.rrz.uni-koeln.de
+ztivax.zfe.siemens.de
+sun7.lrz-muenchen.de
+relay.ccs.muc.debis.de
+dws.urz.uni-magdeburg.de
+relay.urz.uni-heidelberg.de
+
+Top 9 most frequent hosts in Canada (.ca):
+ottgate2.bnr.ca
+freenet.edmonton.ab.ca
+bianca.osc.on.ca
+alize.ere.umontreal.ca
+pcrb.ccrs.emr.ca
+srv1.freenet.calgary.ab.ca
+ccn.cs.dal.ca
+oncomdis.on.ca
+cobain.arcs.bcit.bc.ca
+
+Top 9 most frequent hosts in Singapore (.sg):
+merlion.singnet.com.sg
+sunsite.nus.sg
+ts900-1314.singnet.com.sg
+ssc25.iscs.nus.sg
+scctn02.sp.ac.sg
+ts900-1305.singnet.com.sg
+ts900-406.singnet.com.sg
+ts900-402.singnet.com.sg
+einstein.technet.sg

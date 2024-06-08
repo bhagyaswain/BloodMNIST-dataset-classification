@@ -1,0 +1,81 @@
+Metrics for 40.0% training data with Setting 1:
+RMSE: 0.8038425671916142, MSE: 0.6461628728292049, MAE: 0.6173802104518833
+Metrics for 40.0% training data with Setting 2:
+RMSE: 0.80436354018704, MSE: 0.6470007047822279, MAE: 0.6204259127674157
+Top 5 Clusters for Split Size 40.0%:
+Cluster 12: 4631 users
+Cluster 19: 3800 users
+Cluster 1: 3664 users
+Cluster 15: 3487 users
+Cluster 23: 3430 users
+Top 5 Movies for Split Size 40.0%:
+Innocent Voices (Voces inocentes) (2004)
+Nothing to Lose (1997)
+Lars and the Real Girl (2007)
+Breezy (1973)
+McLintock! (1963)
+Top 10 Genres for Split Size 40.0%:
+Drama: 436
+Comedy: 210
+Romance: 154
+Thriller: 136
+Action: 117
+Crime: 97
+Adventure: 86
+Documentary: 62
+Sci-Fi: 62
+Fantasy: 49
+Metrics for 60.0% training data with Setting 1:
+RMSE: 0.7746703485418404, MSE: 0.6001141489099364, MAE: 0.5863419153375484
+Metrics for 60.0% training data with Setting 2:
+RMSE: 0.7785769665517497, MSE: 0.6061820928449243, MAE: 0.5954252227579998
+Top 5 Clusters for Split Size 60.0%:
+Cluster 20: 5200 users
+Cluster 7: 5031 users
+Cluster 0: 4987 users
+Cluster 13: 4959 users
+Cluster 22: 4852 users
+Top 5 Movies for Split Size 60.0%:
+Best Boy (1979)
+Deathmaker, The (Totmacher, Der) (1995)
+Electile Dysfunction (2008)
+Black Rain (Kuroi ame) (1989)
+Ronja Robbersdaughter (Ronja Rövardotter) (1984)
+Top 10 Genres for Split Size 60.0%:
+Drama: 2096
+Comedy: 943
+Romance: 590
+Documentary: 524
+Thriller: 443
+Crime: 423
+Action: 343
+Adventure: 299
+War: 248
+Mystery: 192
+Metrics for 80.0% training data with Setting 1:
+RMSE: 0.7966284501213552, MSE: 0.6346168875427525, MAE: 0.6033799261304372
+Metrics for 80.0% training data with Setting 2:
+RMSE: 0.798590078331364, MSE: 0.6377461132092941, MAE: 0.607963457742745
+Top 5 Clusters for Split Size 80.0%:
+Cluster 5: 6969 users
+Cluster 11: 6951 users
+Cluster 23: 6137 users
+Cluster 19: 6119 users
+Cluster 12: 5945 users
+Top 5 Movies for Split Size 80.0%:
+How to Survive a Plague (2012)
+Black Dynamite (2009)
+Game of Death, The (Le Jeu de la Mort) (2010)
+Brother of Sleep (Schlafes Bruder) (1995)
+Private Function, A (1984)
+Top 10 Genres for Split Size 80.0%:
+Drama: 717
+Comedy: 368
+Romance: 219
+Thriller: 147
+Documentary: 147
+Action: 145
+Adventure: 139
+Crime: 126
+War: 104
+Mystery: 79

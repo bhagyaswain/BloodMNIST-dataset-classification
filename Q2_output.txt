@@ -1,0 +1,26 @@
+root
+ |-- IDpol: double (nullable = true)
+ |-- ClaimNb: long (nullable = true)
+ |-- Exposure: double (nullable = true)
+ |-- Area: string (nullable = true)
+ |-- VehPower: long (nullable = true)
+ |-- VehAge: long (nullable = true)
+ |-- DrivAge: long (nullable = true)
+ |-- BonusMalus: long (nullable = true)
+ |-- VehBrand: string (nullable = true)
+ |-- VehGas: string (nullable = true)
+ |-- Density: long (nullable = true)
+ |-- Region: string (nullable = true)
+ |-- hasClaim: integer (nullable = false)
+
+Poisson Regression Model Coefficients:
+[0.39779596738288414,0.07923806400044345,-0.22071141556701937,0.07893650287982433,0.2886963303359262,0.06383916564953683,-0.017651384085894756,-0.03922060933911979,-0.01283680429070482,-0.0632307140219577]
+Logistic Regression Model Coefficients (L1 Regularization):
+(10,[],[])
+Logistic Regression Model Coefficients (L2 Regularization):
+[0.2929552782152079,0.04500821090205273,-0.170397218820072,0.04990303164613295,0.21160796619852348,0.042484258386969564,-0.010439659876265196,-0.04018738381590209,-0.010197170346665832,-0.03970703220950361]
+RMSE for Poisson Regression: 0.24785109167093547
+AUC for Logistic Regression (L1 Regularization): 0.5
+AUC for Logistic Regression (L2 Regularization): 0.6289658597780715
+Accuracy for Logistic Regression (L1 Regularization): 0.9491936873722825
+Accuracy for Logistic Regression (L2 Regularization): 0.9491936873722825

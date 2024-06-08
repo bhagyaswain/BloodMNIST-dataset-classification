@@ -1,0 +1,12 @@
+Random Forest Classifier:
+numTrees: 30
+maxDepth: 7
+minInstancesPerNode: 1
+Gradient-Boosted Tree Classifier:
+maxIter: 150
+maxDepth: 6
+stepSize: 0.1
+Multilayer Perceptron Classifier:
+layers: [28, 40, 2]
+blockSize: 64
+stepSize: 0.03

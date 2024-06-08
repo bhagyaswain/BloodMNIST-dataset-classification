@@ -1,0 +1,3 @@
+Random Forest - AUC on full dataset: 0.690464791486548
+Gradient Boosting - AUC on full dataset: 0.7355508143382347
+Multilayer Perceptron - AUC on full dataset: 0.6793579255838161
